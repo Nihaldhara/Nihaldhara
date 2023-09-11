@@ -10,3 +10,5 @@ Finally being able to taste delicious food, in quantity, for cheap, makes me wan
 * ✉️ Contact me --> **ojoly@et.esiea.fr**
 
 On this account, you can see a few of my school and personnal projects. More coming soon!
+
+Thank you for taking the time to read, and I wish you all a great day 😄
