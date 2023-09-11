@@ -1,4 +1,4 @@
-![Gustave_Courbet_Le_Désespéré_Banner](./images/Gustave_Courbet_Le_Désespéré_Banner.jpg)
+![Gustave_Courbet_Le_Désespéré_Banner](https://imgtr.ee/image/2zbFW)
 
 ##Hi there, welcome to **Nihaldhara**'s main page and introduction. 
 I am a 19 year old exchange student in Seoultech, South Korea. 
