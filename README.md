@@ -1,7 +1,7 @@
 ![Gustave_Courbet_Le_Désespéré_Banner](https://imgtr.ee/images/2023/09/11/2a68c465f974d66ab5456626087d4d39.jpeg)
 
 ## Welcome to **Nihaldhara**'s main page and introduction. 
-Hi there! I am a 19 year old french exchange student in Seoultech, South Korea.   
+Hi there! I am a 20 year old french exchange student in Seoultech, South Korea.   
 Finally being able to taste delicious food, in quantity, for cheap, makes me want to never go back home again 🙂.
 
 * 🔭 I am currently working on my range of _programming_ skills
