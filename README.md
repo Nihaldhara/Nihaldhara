@@ -5,7 +5,7 @@ Hi there! I am a 20 year old french exchange student in Seoultech, South Korea.
 Finally being able to taste delicious food, in quantity, for cheap, makes me want to never go back home again 🙂.
 
 * 🔭 I am currently working on my range of _programming_ skills
-* 🌱 I am currently learning **Java**, **Markdown**, **Python** and **Korean**
+* 🌱 I am currently learning **Java**, **Kotlin** and **Swift**
 * 🖌️ The banner above this text is a famous piece of art called *le Désespéré*, painted by [Gustave Courbet](https://en.wikipedia.org/wiki/Gustave_Courbet), a renowned french artist
 * ✉️ Contact me --> **ojoly@et.esiea.fr**
 
